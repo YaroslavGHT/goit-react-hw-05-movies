@@ -1,4 +1,4 @@
-import { NavLink, useParams,} from 'react-router-dom';
+import { useParams,} from 'react-router-dom';
 import React, { useEffect, useState } from 'react';
 import { requestReviewsById } from '../service/api.js';
 
